@@ -1,0 +1,4 @@
+baseURL = 'https://aneesh.info/'
+languageCode = 'en-us'
+title = 'Aneesh Kumar'
+theme = 'PaperMod'
